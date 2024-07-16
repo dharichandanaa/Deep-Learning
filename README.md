@@ -7,3 +7,6 @@
 ### ICP3 video link - https://drive.google.com/file/d/1pqSJqQArkdoe04dANCTQ3IY8vkb6THd8/view?usp=sharing
 ### ICP4_summer.ipyb consists of ICP4 codes
 ### ICP4 video link - https://drive.google.com/file/d/13bpVD54GCzgBBQLHulliHahCG_YH9EX1/view?usp=sharing
+### ICP5_summer.ipyb consists of ICP5 codes
+### ICP5 video link - https://drive.google.com/file/d/1A0JkzZ5q-I8Wj2Hr2Fq4GwxFKTDy2nVT/view?usp=sharing
+
